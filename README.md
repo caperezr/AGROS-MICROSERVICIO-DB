@@ -15,3 +15,4 @@ TYPE2=Medio
 TYPE3=Alto
 PG_PASSWORD=admin(admin es el password)
 ````
+//
